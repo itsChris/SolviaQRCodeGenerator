@@ -59,10 +59,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }, 'image/png');
     }
 
-    // Remove or comment out the following line
-    // generateButton.addEventListener('click', generateQRCode);
-
-    // Add these lines to generate QR code on text input or color change
     textInput.addEventListener('input', generateQRCode);
     colorPicker.addEventListener('input', generateQRCode);
 
