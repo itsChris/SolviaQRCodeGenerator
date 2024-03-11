@@ -44,4 +44,6 @@ cd SolviaQRCodeGenerator
 
 This project is open source.
 
+## Demo
 
+https://qr-code-gen.solvia.ch
