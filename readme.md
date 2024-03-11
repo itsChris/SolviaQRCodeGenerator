@@ -17,12 +17,12 @@ To set up the Solvia QR Code Generator on your local environment, follow these s
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/<your-username>/solvia-qr-code-generator.git
+git clone https://github.com/itsChris/SolviaQRCodeGenerator.git
 
 
 2. Navigate to the project directory.
 
-cd solvia-qr-code-generator
+cd SolviaQRCodeGenerator
 
 
 3. Open `index.html` in your browser to start using the QR Code Generator.
