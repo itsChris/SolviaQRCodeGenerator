@@ -46,6 +46,6 @@ This project is open source.
 
 ## Demo
 
-<a href="https://qr-code-gen.solvia.ch" target="_blank">https://qr-code-gen.solvia.ch</a>
+<a href="https://qr-code-gen.solvia.ch" target="_blank">demo</a>
 
 
